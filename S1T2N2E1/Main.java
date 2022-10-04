@@ -13,7 +13,7 @@ public class Main {
 		boolean pregunta;
 		
 		//crida als mètodes
-		/*numByte = Entrada.llegirByte(null);//variable declarada sense objecte
+		numByte = Entrada.llegirByte(null);//variable declarada sense objecte
 		System.out.println("La teva edat en format Byte és: " + numByte);
 		
 		numInt = Entrada.llegirInt(null);
@@ -30,7 +30,7 @@ public class Main {
 		
 		paraula = Entrada.llegirString(null);
 		System.out.println("La teva frase és: " + paraula);
-		*/
+		
 		pregunta = Entrada.llegirSiNo(null);
 		System.out.println("La teva resposta és: " + pregunta);
 		
