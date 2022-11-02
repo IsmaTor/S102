@@ -1,4 +1,4 @@
-# S102
+# S102 EXCEPTIONS
 Exceptions
 Endavant!
 
